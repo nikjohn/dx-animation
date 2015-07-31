@@ -1,0 +1,11 @@
+{
+  "name": "dx-animation",
+  "version": "0.1",
+  "homepage": "http://digitalx.deloitte.com",
+  "authors": [
+    "Himanshu Hiranandani"
+  ],
+  "description": "A small animation snippet that works with three.js library",
+  "main": "backgroundAnime.js",
+  "license": "MIT"
+}
