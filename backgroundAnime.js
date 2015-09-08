@@ -244,7 +244,7 @@ if ( ! Detector.webgl ) Detector.addGetWebGLMessage();
 
 				//document.addEventListener( 'mousemove', onDocumentMouseMove, false );
 				//document.addEventListener( 'touchstart', onDocumentTouchStart, false );
-				document.addEventListener( 'touchmove', onDocumentTouchMove, false );
+				//document.addEventListener( 'touchmove', onDocumentTouchMove, false );
 
 				//
 
